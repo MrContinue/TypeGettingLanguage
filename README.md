@@ -3,7 +3,7 @@
 
 语法：
 
-![](CodeCogsEqn.png)
+![tbXXU1.jpg](https://s1.ax1x.com/2020/06/11/tbXXU1.jpg)
 
 示例程序：
 ```cpp
